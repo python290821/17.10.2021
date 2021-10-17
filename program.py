@@ -1,1 +1,1 @@
-print('hello world')
+# solution for homework
